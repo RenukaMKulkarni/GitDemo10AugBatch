@@ -7,4 +7,5 @@ adding a comment to see the delete.
 adding this line to see the git diff command.
 
 Adding a random text gsdfgsdgjsdgf
+bug1 is fixed.
 
