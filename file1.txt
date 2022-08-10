@@ -1,12 +1,13 @@
 Welcome to GIT Session!
-hello There.
+Hello There.
 
-adding a random text gsdfgsdgjsdgf
-adding a comment to see the delete.
+Adding a random text gsdfgsdgjsdgf
+Adding a comment to see the delete.
 
-adding this line to see the git diff command.
+Adding this line to see the git diff command.
 
-adding a - random text gsdfgsdgjsdgf
-bug1 is - fixed.
-working on - rebase.
+Bug1 is fixed.
+Working on rebase.
+Working on CR3.
+
 
